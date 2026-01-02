@@ -46,4 +46,16 @@ local Window = Rayfield:CreateWindow({
       Key = {"https://pastebin.com/raw/Pth0rxbW"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
-local Tab = Window:CreateTab("Tab Example", "rewind")
+local Tab = Window:CreateTab("Tab Example", "house")
+local Section = Tab:CreateSection("Information")
+local Input = Tab:CreateInput({
+   Name = "Input Example",
+   CurrentValue = "",
+   PlaceholderText = "Input Placeholder",
+   RemoveTextAfterFocusLost = false,
+   Flag = "Input1",
+   Callback = function(Text)
+   -- The function that takes place when the input is changed
+   -- The variable (Text) is a string for the value in the text box
+   end,
+})
