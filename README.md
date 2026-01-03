@@ -1,4 +1,6 @@
-# Flux
+<p align="center">
+  <img src="https://raw.githubusercontent.com/user/repo/main/preview.png" alt="Preview">
+</p>
 
 A lightweight Roblox script hub with a simple UI and fast execution.
 ## Installation
