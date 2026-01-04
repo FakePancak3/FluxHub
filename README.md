@@ -1,3 +1,5 @@
+> [!CAUTION]
+> The only official places to get FluxHub is this GitHub repository and ScriptBlox. Any other websites claiming to be us are not owned by me.
 > [!IMPORTANT]
 > FluxHub is under development, expect bugs.
 <p align="center">
