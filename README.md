@@ -7,6 +7,8 @@
   <img src="https://raw.githubusercontent.com/PixelatedColors/FluxHub/refs/heads/main/assets/2.png" alt="Preview">
 </p>
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 A lightweight Roblox script hub with a simple UI and fast execution.
 ## Installation
