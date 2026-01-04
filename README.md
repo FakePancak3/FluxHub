@@ -1,4 +1,6 @@
-> [!CAUTION]
+![Discord][shield-discord-server]
+
+ [!CAUTION]
 > The only official places to get FluxHub is this GitHub repository and ScriptBlox. Any other websites claiming to be us are not owned by me.
 
 > [!IMPORTANT]
