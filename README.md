@@ -8,6 +8,8 @@
 </p>
 
 ![release](https://img.shields.io/badge/Alpha-2.6F-green.svg)
+![n1](https://img.shields.io/badge/Release-Alpha-green.svg)
+![n1](https://img.shields.io/badge/Buy-Seliware-green.svg)
 
 
 A lightweight Roblox script hub with a simple UI and fast execution.
