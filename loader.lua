@@ -1,5 +1,4 @@
 print("/ / / / / / / / FluxHub V1 / / / / / / / /")
-print("Thank you for using FluxHub")
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 local Window = WindUI:CreateWindow({
     Title = "FluxHub | Alpha A126",
@@ -7,7 +6,6 @@ local Window = WindUI:CreateWindow({
     Author = "by Pancake",
     Folder = "Flux",
     
-    -- ↓ This all is Optional. You can remove it.
     Size = UDim2.fromOffset(580, 460),
     MinSize = Vector2.new(560, 350),
     MaxSize = Vector2.new(850, 560),
@@ -19,15 +17,6 @@ local Window = WindUI:CreateWindow({
     HideSearchBar = true,
     ScrollBarEnabled = false,
     
-    -- ↓ Optional. You can remove it.
-    --[[ You can set 'rbxassetid://' or video to Background.
-        'rbxassetid://':
-            Background = "rbxassetid://", -- rbxassetid
-        Video:
-            Background = "video:YOUR-RAW-LINK-TO-VIDEO.webm", -- video 
-    --]]
-    
-    -- ↓ Optional. You can remove it.
     User = {
         Enabled = true,
         Anonymous = false,
@@ -36,28 +25,21 @@ local Window = WindUI:CreateWindow({
         end,
     },
     
-    --       remove this all, 
-    -- !  ↓  if you DON'T need the key system
     KeySystem = { 
-        -- ↓ Optional. You can remove it.
+       
         Key = { "HappyNewYear2026", "TESTERKEYNIGGA2029" },
         
         Note = "Linkvertise has been copied to your clipboard.",
         
-        -- ↓ Optional. You can remove it.
         Thumbnail = {
             Image = "rbxassetid://68073548",
             Title = "Thumbnail",
         },
-        
-        -- ↓ Optional. You can remove it.
+            
         URL = "https://link-target.net/2627428/n7iYjVvczRXb",
+
+        SaveKey = true,
         
-        -- ↓ Optional. You can remove it.
-        SaveKey = true, -- automatically save and load the key.
-        
-        -- ↓ Optional. You can remove it.
-        -- API = {} ← Services. Read about it below ↓
     },
 })
 local MTab = Window:Tab({
