@@ -12,7 +12,7 @@
 ![n1](https://img.shields.io/badge/Buy-Seliware-green.svg)
 
 
-A lightweight Roblox script hub with a simple UI and fast execution.
+A lightweight Roblox script hub with elegant UI and fast execution.
 ## Installation
 - Install any script executor (Use WhatExpsAre.online to find safe executors)
 - get the script from the Github and paste it in your script executor.
